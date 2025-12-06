@@ -1,0 +1,4 @@
+Fuera de los problemas de instalacion que hubo, este codelab no funciono.
+Se necesita python 3.10
+Se necesita una version exacta de dlib.
+El video se borro.
